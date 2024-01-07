@@ -26,7 +26,7 @@ To run this application locally, follow these steps:
 3. Set up the PostgreSQL database:
 
    - Create a new database for the application.
-   - Update the database configuration in `config/db.js` with your credentials.
+   - Update the database configuration in index.js with your credentials.
 
 4. Run the application:
 
